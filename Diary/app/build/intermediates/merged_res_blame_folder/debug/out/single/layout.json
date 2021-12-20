@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Android Project\\Diary\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Android Project\\Diary\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\Diary\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item.xml",
+        "source": "D:\\Android Project\\Diary\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\Diary\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_main.xml",
+        "source": "D:\\Android Project\\Diary\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\Diary\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_change_date.xml",
+        "source": "D:\\Android Project\\Diary\\app\\src\\main\\res\\layout\\fragment_change_date.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\Diary\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_sign_up.xml",
+        "source": "D:\\Android Project\\Diary\\app\\src\\main\\res\\layout\\fragment_sign_up.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\Diary\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_add.xml",
+        "source": "D:\\Android Project\\Diary\\app\\src\\main\\res\\layout\\fragment_add.xml"
+    },
+    {
+        "merged": "D:\\Android Project\\Diary\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_login.xml",
+        "source": "D:\\Android Project\\Diary\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    }
+]
